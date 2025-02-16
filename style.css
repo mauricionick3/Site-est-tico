@@ -1,0 +1,40 @@
+body {
+    background: black;
+    color: white;
+}
+
+h1 {
+    font-size: 70px;
+    margin-top: 250px;
+    margin-left: 10px;
+}
+
+h2 {
+    font-size: 25px;
+    margin-top: -435px;
+    margin-left: 10px;
+}
+
+.texto1 {
+    font-size: 20px;
+    margin-top: 450px;
+    margin-left: 75%;
+}
+
+.texto2 {
+    margin-top: -85px;
+    margin-left: 700px;
+}
+.menu {
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: -560px;
+    gap: 50px;
+    margin-left: 800px;
+    cursor: pointer;
+   
+
+   
+}
